@@ -42,6 +42,10 @@ fastify.post('/login', async (request, reply) => {
   }
 });
 
+fastify.get('/', async (request, reply) => {
+  reply.send({ hello: 'world' })
+})
+
 fastify.get('/calendar', async (request, reply) => {
   if (request.headers.authorization) {
     console.log('[GET] /calendar > ', request.headers.authorization)
