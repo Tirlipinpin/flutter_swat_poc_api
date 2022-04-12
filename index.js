@@ -29,7 +29,7 @@ fastify.register(fastifyCors, {
 
 fastify.post('/login', async (request, reply) => {
   console.log(request.body)
-  if (request.body.email === 'admin@one2team.com' && request.body.password === 'admin') {
+  if (request.body.email === 'admin@some-test.com' && request.body.password === 'password') {
     // auth success
     reply.code(200);
     setTimeout(() => {
