@@ -67,6 +67,22 @@
     {
       "id": "EX1_017",
       "name": "Burn bottles"
+    },
+    {
+      "id": "EX1_018",
+      "name": "A scroll needs to be displayed"
+    },
+    {
+      "id": "EX1_019",
+      "name": "Be creative about projects name"
+    },
+    {
+      "id": "EX1_020",
+      "name": "Use copilot to generate names"
+    },
+    {
+      "id": "EX1_021",
+      "name": "Drink some beer"
     }
   ],
   "days": [
