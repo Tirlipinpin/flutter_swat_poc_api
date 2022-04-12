@@ -1,0 +1,215 @@
+{
+  "projects": [
+    {
+      "id": "EX1_001",
+      "name": "Develope a mobile application"
+    },
+    {
+      "id": "EX1_002",
+      "name": "Implement a new Gantt"
+    },
+    {
+      "id": "EX1_003",
+      "name": "Design the new Roadmap"
+    },
+    {
+      "id": "EX1_004",
+      "name": "Update the Kafka"
+    },
+    {
+      "id": "EX1_005",
+      "name": "Update Zookeper"
+    },
+    {
+      "id": "EX1_006",
+      "name": "Update the Oracle DB"
+    },
+    {
+      "id": "EX1_007",
+      "name": "Plan a new project"
+    },
+    {
+      "id": "EX1_008",
+      "name": "Assign the resources"
+    },
+    {
+      "id": "EX1_009",
+      "name": "Call the client"
+    },
+    {
+      "id": "EX1_010",
+      "name": "Promise stuff to clients"
+    },
+    {
+      "id": "EX1_011",
+      "name": "Help the homeless man in the street"
+    },
+    {
+      "id": "EX1_012",
+      "name": "Ask Alexis to do stuff"
+    },
+    {
+      "id": "EX1_013",
+      "name": "Buy new pens"
+    },
+    {
+      "id": "EX1_014",
+      "name": "Hijack the SWAT for mobile"
+    },
+    {
+      "id": "EX1_015",
+      "name": "Explicitely say that Flutter is better than React Native"
+    },
+    {
+      "id": "EX1_016",
+      "name": "Draw a white page"
+    },
+    {
+      "id": "EX1_017",
+      "name": "Burn bottles"
+    }
+  ],
+  "days": [
+    {
+      "date": "2022-04-04",
+      "assignments": [
+        {
+          "id": "000",
+          "project_id": "EX1_001",
+          "hours": 1
+        },
+        {
+          "id": "001",
+          "project_id": "EX1_002",
+          "hours": 2
+        },
+        {
+          "id": "003",
+          "project_id": "EX1_003",
+          "hours": 10
+        },
+        {
+          "project_id": "EX1_010",
+          "hours": 10,
+          "id": "ff5886c0-0b88-4fea-8849-85b5a1c18c84"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-05",
+      "assignments": [
+        {
+          "id": "000",
+          "project_id": "EX1_001",
+          "hours": 5
+        },
+        {
+          "id": "001",
+          "project_id": "EX1_002",
+          "hours": 10
+        },
+        {
+          "project_id": "EX1_003",
+          "hours": 2,
+          "id": "b19c5559-2f38-494b-b588-f19c512d54bb"
+        },
+        {
+          "project_id": "EX1_005",
+          "hours": 2,
+          "id": "3f9a8443-e9cb-4f58-a772-74ed5b5534fb"
+        },
+        {
+          "project_id": "EX1_007",
+          "hours": 4,
+          "id": "3a7c07a3-4c69-4775-a510-5f0852dd8bac"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-06",
+      "assignments": [
+        {
+          "id": "003",
+          "project_id": "EX1_002",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "date": "2022-04-07",
+      "assignments": [
+        {
+          "id": "001",
+          "project_id": "EX1_002",
+          "hours": 3
+        },
+        {
+          "project_id": "EX1_003",
+          "hours": 1,
+          "id": "d6cc8d07-aabc-4cc1-8272-b288915887ea"
+        },
+        {
+          "project_id": "EX1_001",
+          "hours": 2,
+          "id": "d44247ae-7165-4c78-85cf-61b5a1bb9dd6"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-08",
+      "assignments": [
+        {
+          "id": "000",
+          "project_id": "EX1_001",
+          "hours": 8
+        },
+        {
+          "project_id": "EX1_008",
+          "hours": 2,
+          "id": "672ced64-6bbc-4375-a144-7cb818c21b9d"
+        },
+        {
+          "project_id": "EX1_009",
+          "hours": 2,
+          "id": "d7ea9171-14d6-475a-9aff-c6cf7a5ca410"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-09",
+      "assignments": [
+        {
+          "id": "000",
+          "project_id": "EX1_001",
+          "hours": 7
+        },
+        {
+          "id": "003",
+          "project_id": "EX1_002",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "date": "2022-04-10",
+      "assignments": [
+        {
+          "id": "000",
+          "project_id": "EX1_001",
+          "hours": 2
+        },
+        {
+          "id": "001",
+          "project_id": "EX1_002",
+          "hours": 5
+        },
+        {
+          "id": "003",
+          "project_id": "EX1_002",
+          "hours": 4
+        }
+      ]
+    }
+  ],
+  "week": 22
+}

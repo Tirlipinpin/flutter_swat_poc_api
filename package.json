@@ -1,0 +1,18 @@
+{
+  "name": "app_api",
+  "version": "1.0.0",
+  "description": "An API to handle the Flutter app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tirlipinpin",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.28.0",
+    "fastify-cors": "^6.0.3",
+    "lowdb": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}
