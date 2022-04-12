@@ -94,7 +94,7 @@ fastify.put('/calendar/assignment', async (request, reply) => {
 // Run the server!
 const start = async () => {
   try {
-    await fastify.listen(5050)
+    await fastify.listen(process.env.PORT || 5050)
   } catch (err) {
     fastify.log.error(err)
     process.exit(1)
